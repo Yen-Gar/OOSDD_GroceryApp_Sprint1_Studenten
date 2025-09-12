@@ -363,3 +363,23 @@ MigrationBackup/
 FodyWeavers.xsd
 
 .idea/
+
+# Debug
+*.obj
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Build
+/bin/
+/build/
+/dist/
+
+# IDE
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
